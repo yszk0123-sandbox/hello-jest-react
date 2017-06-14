@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/yszk0123/hello-jest.svg?branch=master)](https://travis-ci.org/yszk0123/hello-jest)
+[![Build Status](https://travis-ci.org/yszk0123/hello-jest-react.svg?branch=master)](https://travis-ci.org/yszk0123/hello-jest-react)
 
 # Getting Started
 
